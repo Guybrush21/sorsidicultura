@@ -2,7 +2,7 @@
 title: Homepage Hero
 menu: Sorsi di Cultura
 hero_classes: parallax text-light
-hero_image: header.jpg
+hero_image: bar-header.jpg
 ---
 
 # Sorsi di Cultura

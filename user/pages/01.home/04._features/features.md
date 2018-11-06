@@ -1,7 +1,6 @@
 ---
-title: Homepage Argomenti
-menu: Argomenti
-class: small
+title: Homepage Temi
+menu: Temi
 features:
     - header: Intelligenza Artificiale
       icon: fa fa-cogs      
@@ -17,5 +16,6 @@ features:
       icon: fa fa-book
 ---
 
-# Argomenti
+# Temi
+
 ## **Affrontarli oggi per non temerli domani**
